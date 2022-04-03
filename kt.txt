@@ -1,0 +1,59 @@
+page mapping - thr perticular form related tpo which db name 
+and pgm code we can get from page mapping - its apps forms with database.
+
+case info- case summary
+
+eligibility - 
+
+
+individual demographics - modify details  like DOB name security details
+
+
+
+if some forms has pendiing state then to make active go to eligibility
+
+case info - new app - it creates new application
+
+eligibility- customer info - add relationship
+
+
+CSO - Bhaskar Ghosh
+
+
+Household status - house detailsl
+
+relationship - home relationship
+
+
+non financial and financial
+
+
+cdp LEARNINS - https://mylearning.accenture.com/mylearningui/learner/coursedetail/1324980
+
+https://app.pluralsight.com/library/courses/tq-blockchain/transcript
+
+
+eligibility - verification - we can generate the online trigger form
+
+batch jobs - runs automatically 
+
+
+notices - nova
+
+RunEDBC means notices generated and client correspondsanec in that template then that creates forms
+
+
+
+
+
+
+
+
+
+
+forms - 
+
+noticess
+
+
+Customer - Run EDBC
