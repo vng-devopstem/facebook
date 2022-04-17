@@ -1,1 +1,1 @@
-this file contains the seployment script
+this file contains the deployment script
